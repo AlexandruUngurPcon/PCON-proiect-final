@@ -1,4 +1,6 @@
 # Crazy Piano Randomness
+
+## Description
 The project is based on the creation of sound events by motion detection, on a video image in Max 8.
 
 ## Instructions
